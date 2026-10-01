@@ -1,6 +1,92 @@
+# ==============================
+# OS-generated files
+# ==============================
 
-LinkedList.exe
-Stack.exe
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+
+# ==============================
+# Editors / IDEs
+# ==============================
+
 .idea/
-java/pdf/
+.vscode/
+
+*.swp
+*.swo
+*~
+
+
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+.venv/
+venv/
+env/
+ENV/
+
+
+# ==============================
+# Java / Android
+# ==============================
+
+*.class
+
+.gradle/
+build/
+out/
+
+
+# ==============================
+# Node.js / Web
+# ==============================
+
+node_modules/
+.npm/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# ==============================
+# C / C++ / native build outputs
+# ==============================
+
 *.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.out
+
+
+# ==============================
+# Local environment / secrets
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+
+# ==============================
+# Temporary files
+# ==============================
+
+*.tmp
+*.temp
+*.bak
