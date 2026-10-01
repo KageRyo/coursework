@@ -1,14 +1,27 @@
-# ClassPractice
+# Coursework
 
-Coursework, assignments, and programming exercises from my undergraduate
-and graduate studies.
+Coursework, assignments, programming exercises, and learning materials from my undergraduate and graduate studies.
 
-這個 repository 用來公開保存大學與碩士階段的課程作業、練習程式碼與學習紀錄，
-主要提供教育與備份參考用途。
+This repository organizes and preserves coursework, programming exercises, and learning materials from my undergraduate and graduate studies. It primarily serves as a personal learning archive, portfolio reference, and long-term backup.
+
+## Graduate
+
+**National Chung Cheng University 國立中正大學**  
+M.S. in Computer Science and Information Engineering 資訊工程研究所  
+2025 – Present  
+Embedded Systems Laboratory
+
+- [Computer Architecture](Graduate/ComputerArchitecture/)
+- [Deep Learning](Graduate/DeepLearning/)
+- [Image Processing](Graduate/ImageProcessing/)
+- [Open Source Software Development](Graduate/OpenSourceSoftwareDevelopment/)
+- [Pattern Recognition](Graduate/PatternRecognition/)
 
 ## Undergraduate
 
-國立臺中科技大學智慧生產工程系
+**National Taichung University of Science and Technology 國立臺中科技大學**  
+B.E. in Intelligent Production Engineering 智慧生產工程系  
+2021 – 2024
 
 - [Java 程式設計](Undergraduate/Java程式設計/)
 - [人工智慧程式設計](Undergraduate/人工智慧程式設計/)
@@ -18,21 +31,33 @@ and graduate studies.
 - [行動裝置程式設計](Undergraduate/行動裝置程式設計/)
 - [資料結構](Undergraduate/資料結構/)
 
-## Graduate
+## Repository Structure
 
-國立中正大學資訊工程學系
+```text
+.
+├── Undergraduate/
+│   └── ...
+└── Graduate/
+    └── ...
+```
 
-- [Computer Architecture](Graduate/ComputerArchitecture/)
-- [Deep Learning](Graduate/DeepLearning/)
-- [Image Processing](Graduate/ImageProcessing/)
-- [Open Source Software Development](Graduate/OpenSourceSoftwareDevelopment/)
-- [Pattern Recognition](Graduate/PatternRecognition/)
+Each course directory may contain assignments, source code, experiments, notes, reports, or other course-related materials.
+
+Content quality and project structure may vary because these files were created at different stages of my studies.
 
 ## Usage Notice
 
-This repository is public for educational and archival purposes. Unless a
-file or directory contains an explicit notice otherwise, no license is
-granted for reuse, redistribution, or derivative works.
+This repository is published for educational, archival, and portfolio purposes.
 
-部分內容可能包含課堂提供的 skeleton code、作業題目、教材衍生內容或第三方素材；
-相關權利仍歸原作者或權利人所有。請勿直接將這些內容當作自己的課堂作業提交。
+Unless a specific file or directory explicitly states otherwise, no license is granted for reuse, redistribution, or derivative works.
+
+Some directories may contain:
+
+- skeleton or starter code provided by instructors
+- assignment descriptions or course materials
+- modified examples based on teaching materials
+- third-party libraries, assets, or other externally sourced content
+
+The rights to such materials remain with their respective authors or copyright holders.
+
+Please do not submit code or assignments from this repository as your own coursework.
