@@ -21,7 +21,7 @@ Embedded Systems Laboratory
 
 **National Taichung University of Science and Technology 國立臺中科技大學**  
 B.E. in Intelligent Production Engineering 智慧生產工程系  
-2021 – 2024
+2021 – 2025
 
 - [Java 程式設計](Undergraduate/Java程式設計/)
 - [人工智慧程式設計](Undergraduate/人工智慧程式設計/)
