@@ -7,9 +7,8 @@ numpy==2.4.4
 
 # 機器學習與深度學習
 scikit-learn==1.8.0
-torch==2.11.0
-torchvision==0.26.0
-torchaudio==2.11.0
+torch==2.14.1
+torchvision==0.29.1
 seaborn==0.13.2
 xgboost==3.2.0
 lightgbm==4.6.0
